@@ -17,6 +17,16 @@
 </head>
 
 <body>
+
+      <nav>
+          <a href="Benefits"> Benefits </a>
+          <a href="Home"> Home </a>
+          <a href="breathing"> Breathing </a>
+          <a href="lifestyle"> Lifestyle </a>
+          <a href="meditation-music"> Meditation Music </a>
+          <a href="methods"> Meditation Methods </a>
+
+      </nav>
 <h1>Meditation-Your Way!<h1>
 
 
